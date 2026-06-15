@@ -4,7 +4,7 @@ set -o pipefail
 CUR_DIR=$(pwd)
 TMP_DIR=$(mktemp -d /tmp/chnroute.XXXXXX)
 
-SRC_URL_1="https://ftp.apnic.net/apnic/stats/apnic/delegated-apnic-latest"
+SRC_URL_1="https://ftp.apnic.net/stats/apnic/delegated-apnic-latest"
 SRC_URL_2="https://raw.githubusercontent.com/17mon/china_ip_list/master/china_ip_list.txt"
 DEST_FILE_1="dist/chnroute/chnroute.txt"
 DEST_FILE_2="dist/chnroute/chnroute6.txt"

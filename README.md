@@ -7,12 +7,17 @@ This script can be automatically generate something what you needed every day.
 
 [![Flag Counter](https://s04.flagcounter.com/countxl/jtlp/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_3/labels_1/pageviews_1/flags_0/percent_0/)](https://info.flagcounter.com/jtlp)
 
+[![Powered by DartNode](https://github.com/bin456789/reinstall/assets/7548515/435d6740-bcdd-4f3a-a196-2f60ae397f17)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
+[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
+
 ## 🍭 Lists
 
 - [`adlist/adlist.txt`](https://raw.githubusercontent.com/pexcn/daily/gh-pages/adlist/adlist.txt)
 - [`adblock/adblock.conf`](https://raw.githubusercontent.com/pexcn/daily/gh-pages/adblock/adblock.conf)
 - [`chnroute/chnroute.txt`](https://raw.githubusercontent.com/pexcn/daily/gh-pages/chnroute/chnroute.txt)
 - [`chnroute/chnroute6.txt`](https://raw.githubusercontent.com/pexcn/daily/gh-pages/chnroute/chnroute6.txt)
+- [`hkgroute/hkgroute.txt`](https://raw.githubusercontent.com/pexcn/daily/gh-pages/hkgroute/hkgroute.txt)
+- [`hkgroute/hkgroute6.txt`](https://raw.githubusercontent.com/pexcn/daily/gh-pages/hkgroute/hkgroute6.txt)
 - [`chinalist/chinalist.txt`](https://raw.githubusercontent.com/pexcn/daily/gh-pages/chinalist/chinalist.txt)
 - [`gfwlist/gfwlist.txt`](https://raw.githubusercontent.com/pexcn/daily/gh-pages/gfwlist/gfwlist.txt)
 - [`pac/gfwlist.pac`](https://raw.githubusercontent.com/pexcn/daily/gh-pages/pac/gfwlist.pac)

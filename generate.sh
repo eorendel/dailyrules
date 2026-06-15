@@ -23,6 +23,10 @@ post() {
 }
 
 main() {
+  # toplist
+  mkdir -p dist/toplist/
+  scripts/toplist.sh > dist/toplist/toplist.txt
+
   # ad domain list
   scripts/adlist/adlist.sh
 
@@ -39,6 +43,9 @@ main() {
 
   # chnroute
   scripts/chnroute/chnroute.sh
+
+  # hkgroute
+  scripts/hkgroute/hkgroute.sh
 
   # pac
   scripts/pac/pac.sh
